@@ -1,8 +1,6 @@
 :root {
     --primary-color: #fff;
     /* deep blue */
-    --secondary-color: #f4a261;
-    /* warm sand */
     --accent1-color: #264653;
     /* dark slate blue */
     --accent2-color: #055a05;
@@ -82,7 +80,7 @@ h1 {
     /* white text */
 }
 
-article {
+.hero article {
 
     position: absolute;
     bottom: 40px;
