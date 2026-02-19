@@ -276,11 +276,11 @@ h3 {
     position: absolute;
 }
 
-.trip-info {
+.info-trip {
     position: relative;
 }
 
-.trip-info img {
+.info-trip img {
     display: block;
     width: 100%;
     height: auto;
